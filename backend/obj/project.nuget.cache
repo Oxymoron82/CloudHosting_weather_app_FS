@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "atHo/TqxMFQ=",
+  "dgSpecHash": "5VrhUBkwS/4=",
   "success": true,
   "projectFilePath": "/Users/s2401570/Documents/portfolio/ohjelmistokehittajana_toimiminen/cloudhosting/CloudHosting_weather_app_FS/backend/backend.csproj",
-  "expectedPackageFiles": [
-    "/Users/s2401570/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
-    "/Users/s2401570/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
