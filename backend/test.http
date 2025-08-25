@@ -7,7 +7,7 @@ GET http://localhost:7202/hellous
 
 
 ###
-GET  http://maria-shatylovich.azurewebsites.net
+GET  http://todoapp-maria2025.azurewebsites.net
 
 
-GET  http://maria-shatylovich.azurewebsites.net/hellous
+GET  http://todoapp-maria2025.azurewebsites.net/hellous
