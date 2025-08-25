@@ -1,5 +1,13 @@
-GET http://localhost:5177
+GET http://localhost:7202
 
 ###
 
-GET http://localhost:5177/hellous
+GET http://localhost:7202/hellous
+
+
+
+###
+GET  http://maria-shatylovich.azurewebsites.net
+
+
+GET  http://maria-shatylovich.azurewebsites.net/hellous
