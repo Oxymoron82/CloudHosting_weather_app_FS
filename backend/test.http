@@ -9,7 +9,7 @@ GET http://localhost:5000/hellous
 ###
 GET  http://todoapp-maria2025.azurewebsites.net
 
-
+###
 GET  http://todoapp-maria2025.azurewebsites.net/hellous
 
 
@@ -24,6 +24,7 @@ GET http://localhost:5000
 
 GET http://localhost:5000/hellous
 
+// when starting from bin/debug/net9.0 #pory is 5000 for some reason
 
 
 ###
